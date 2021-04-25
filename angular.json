@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "dashbaord": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dashbaord"
+    }
+  },
+  "defaultProject": "dashbaord",
+  "cli": {
+    "analytics": "afe6872d-c460-4780-98ad-7e2c4f98dac5"
+  }
 }

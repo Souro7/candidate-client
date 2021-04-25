@@ -1,0 +1,14 @@
+.candidate-item {
+  cursor: pointer;
+
+  &:hover {
+    background-color: #eee;
+  }
+}
+
+.form-group {
+  label {
+    min-width: 160px;
+    text-align: left;
+  }
+}
